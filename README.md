@@ -1,2 +1,2 @@
 # cis460_cg
-First Coin Gecko Project
+MU First Coin Gecko Project
